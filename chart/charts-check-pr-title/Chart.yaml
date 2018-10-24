@@ -1,0 +1,7 @@
+apiVersion: v1
+description: A Helm chart for the PR Title format check on the charts repo
+name: charts-check-pr-title
+version: 0.1.0
+maintainers:
+- name: mattfarina
+  email: matt@mattfarina.com
